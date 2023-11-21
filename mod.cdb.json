@@ -3,7 +3,7 @@
     "dev_state": "ACTIVELY_DEVELOPED",
     "donate_url": null,
     "forums": "29972",
-    "issue_tracker": "",
+    "issue_tracker": null,
     "license": {"is_foss":true, "name":"MIT"},
     "long_description": "README.md",
     "media_license": {"is_foss":true, "name":"CC-BY-3.0"},
