@@ -9,12 +9,26 @@ Dark Green=
 Dark Grey=
 Green=
 Grey=
+Light Blue=
 Magenta=
 Orange=
 Pink=
 Red=
+Violet=
 White=
 Yellow=
 
 #Nodes
 @1 Carpet=
+@1 Concrete=
+@1 Daisy=
+@1 Dye=
+@1 Glass=
+@1 Iris=
+@1 Lily=
+@1 Orchid=
+@1 Pane=
+@1 Peony=
+@1 Powder=
+@1 Tulip=
+@1 Wall=
