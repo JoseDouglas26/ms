@@ -1,0 +1,55 @@
+# textdomain: ms
+
+#Colors
+Black=Preto
+Blue=Azul
+Brown=Marrom
+Cyan=Ciano
+Dark Green=Verde Escuro
+Dark Grey=Cinza Escuro
+Green=Verde
+Grey=Cinza
+Light Blue=Azul Claro
+Magenta=Magenta
+Orange=Laranja
+Pink=Rosa
+Red=Vermelho
+Violet=Violeta
+White=Branco
+Yellow=Amarelo
+
+@1 Banner=Estandarte @1
+@1 Bark=Cascas de @1
+@1 Bookshelf=Estante de Livros de @1
+@1 Bundle=Saco @1
+@1 Carpet=Carpete @1
+@1 Concrete=Concreto @1
+@1 Daisy=Margarida @1
+@1 Dye=Tinta @1
+@1 Firework Star=Estrela de Fogo de Artifício @1
+@1 Glass=Vidro @1
+@1 Iris=Íris @1
+@1 Lily=Lírio @1
+@1 Orchid=Orquídea @1
+@1 Pane=Painel de @1
+@1 Peony=Peônia @1
+@1 Powder=Pó de @1
+@1 Slab=Laje de @1
+@1 Stair=Escada de @1
+@1 Tiles=Azulejos de @1
+@1 Tulip=Tulipa @1
+@1 Wall=Parede de @1
+@1 Wood Fence=Cerca de Madeira de @1
+@1 Wood Fence Gate=Portão de Madeira de @1
+
+Acacia=Acácia
+Apple=Macieira
+Aspen=Álamo
+Campfire=Fogueira
+Firework=Fogo de Artifício
+Inner @1=Interior de @1
+Jungle Tree=Árvore da Selva
+Outer @1=Exterior de @1
+Pine=Pinheiro
+Rocket=Foguete
+Stripped @1 Trunk=Tronco de @1 Descascado

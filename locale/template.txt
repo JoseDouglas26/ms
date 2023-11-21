@@ -1,0 +1,20 @@
+# textdomain: ms
+
+#Colors
+Black=
+Blue=
+Brown=
+Cyan=
+Dark Green=
+Dark Grey=
+Green=
+Grey=
+Magenta=
+Orange=
+Pink=
+Red=
+White=
+Yellow=
+
+#Nodes
+@1 Carpet=
