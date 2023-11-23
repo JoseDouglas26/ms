@@ -15,15 +15,15 @@ local materials = {
     {"obsidian", "Obsidian"},
     {"obsidian_block", "Obsidian Block"},
     {"obsidian_brick", "Obsidian Brick"},
-    {"stone", "Stone"},
-    {"stone_block", "Stone Block"},
-    {"stone_brick", "Stone Brick"},
     {"sandstone", "Sandstone"},
     {"sandstone_block", "Sandstone Block"},
     {"sandstone_brick", "Sandstone Brick"},
     {"silver_sandstone", "Silver Sandstone"},
     {"silver_sandstone_block", "Silver Sandstone Block"},
-    {"silver_sandstone_brick", "Silver Sandstone Brick"}
+    {"silver_sandstone_brick", "Silver Sandstone Brick"},
+    {"stone", "Stone"},
+    {"stone_block", "Stone Block"},
+    {"stone_brick", "Stone Brick"}
 }
 
 for i = 1, #materials do
