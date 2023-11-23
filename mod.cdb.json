@@ -1,7 +1,7 @@
 {
     "content_warnings": null,
     "dev_state": "ACTIVELY_DEVELOPED",
-    "donate_url": null,
+    "donate_url": "https://github.com/sponsors/JoseDouglas26",
     "forums": "29972",
     "issue_tracker": "https://github.com/JoseDouglas26/ms/issues",
     "license": {"is_foss":true, "name":"MIT"},

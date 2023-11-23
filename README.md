@@ -28,6 +28,8 @@ New dye to color your blocks and diversify your constructions with another color
 ## Shears
 Shears are a tool that can be used to obtain tree saplings. Just shear the leaves. However, the same leaf can only be sheared once every 30 minutes. Shears require two steel bars to craft.
 
+## Tiles
+
 ## Walls
 Adds wall variant for missing blocks to the Minetest game.
 
@@ -87,8 +89,24 @@ ms_flowers_lily.png &nbsp;&nbsp;&nbsp;&nbsp;
 ms_flowers_orchid.png &nbsp;&nbsp;&nbsp;&nbsp;
 ms_flowers_peony.png &nbsp;&nbsp;&nbsp;&nbsp;
 ms_flowers_tulip_pink.png &nbsp;&nbsp;&nbsp;&nbsp;
+ms_shears.png &nbsp;&nbsp;&nbsp;&nbsp;
+ms_desert_sandstone_tiles.png &nbsp;&nbsp;&nbsp;&nbsp;
+ms_desert_stone_tiles.png &nbsp;&nbsp;&nbsp;&nbsp;
+ms_obsidian_tiles.png &nbsp;&nbsp;&nbsp;&nbsp;
+ms_sandstone_tiles.png &nbsp;&nbsp;&nbsp;&nbsp;
+ms_silver_sandstone_tiles.png &nbsp;&nbsp;&nbsp;&nbsp;
+ms_stone_tiles.png &nbsp;&nbsp;&nbsp;&nbsp;
 ms_wire_connected.png &nbsp;&nbsp;&nbsp;&nbsp;
 ms_wire.png &nbsp;&nbsp;&nbsp;&nbsp;
+
+ms_wool_dig.ogg &nbsp;&nbsp;&nbsp;&nbsp;
+ms_wool_dig.0.ogg &nbsp;&nbsp;&nbsp;&nbsp;
+ms_wool_dig.1.ogg &nbsp;&nbsp;&nbsp;&nbsp;
+ms_wool_dug.ogg &nbsp;&nbsp;&nbsp;&nbsp;
+ms_wool_footstep.ogg &nbsp;&nbsp;&nbsp;&nbsp;
+ms_wool_place.ogg &nbsp;&nbsp;&nbsp;&nbsp;
+ms_wool_place.0.ogg &nbsp;&nbsp;&nbsp;&nbsp;
+
 
 This mod uses textures from the wool mod texture pack.
 >Credits for wool texture pack: Cisoun  (CC BY-SA 3.0)
