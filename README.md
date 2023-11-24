@@ -29,6 +29,15 @@ New dye to color your blocks and diversify your constructions with another color
 Shears are a tool that can be used to obtain tree saplings. Just shear the leaves. However, the same leaf can only be sheared once every 30 minutes. Shears require two steel bars to craft.
 
 ## Tiles
+Addition of tile blocks as a variant of rock materials. Tiles can be crafted using 4 bricks of the desired material.
+
+Tiles:
+* Desert Sandstone
+* Desert Stone
+* Obsidian
+* Sandstone
+* Silver Sandstone
+* Stone
 
 ## Walls
 Adds wall variant for missing blocks to the Minetest game.
@@ -70,32 +79,50 @@ Use wires to keep attached nodes floating. To use a wire, simply position a stri
 See **license.txt** for license information
 
 ### Authors of source code
->Perttu Ahola (celeron55) <celeron55@gmail.com> (MIT)
+>José Douglas (dougsouza26) (MIT)
+>
+>Perttu Ahola (celeron55) <celeron55@gmail.com> (LGPL 2.1) [Minetest default mod]
+>
+>Perttu Ahola (celeron55) <celeron55@gmail.com> (MIT) [Minetest dye and wool mods]
+>
+>PilzAdam <pilzadam@minetest.net>
+>
+>webdesigner97
+>
+>Ironzorg
+>
+>VanessaE
+>
+>Auke Kok (sofar) <sofar@foo-projects.org> (LGPL 2.1)
+>
+>Ilya Zhuravlev (xyz) (MIT)
+>
+>BlockMen
+>
+>>Various Minetest developers and contributors (LGPL 2.1)
 >
 >Various Minetest developers and contributors (MIT)
->
->José Douglas (dougsouza26) (MIT)
 
 ### Authors of media (textures and sounds)
 >José Douglas (CC BY-SA 3.0):
 
 ms_cobweb.png &nbsp;&nbsp;&nbsp;&nbsp;
-ms_concrete_powder.png &nbsp;&nbsp;&nbsp;&nbsp;
 ms_concrete.png &nbsp;&nbsp;&nbsp;&nbsp;
-ms_light_blue.png &nbsp;&nbsp;&nbsp;&nbsp;
+ms_concrete_powder.png &nbsp;&nbsp;&nbsp;&nbsp;
+ms_desert_sandstone_tiles.png &nbsp;&nbsp;&nbsp;&nbsp;
+ms_desert_stone_tiles.png &nbsp;&nbsp;&nbsp;&nbsp;
 ms_flowers_daisy.png &nbsp;&nbsp;&nbsp;&nbsp;
 ms_flowers_iris.png &nbsp;&nbsp;&nbsp;&nbsp;
 ms_flowers_lily.png &nbsp;&nbsp;&nbsp;&nbsp;
 ms_flowers_orchid.png &nbsp;&nbsp;&nbsp;&nbsp;
 ms_flowers_peony.png &nbsp;&nbsp;&nbsp;&nbsp;
 ms_flowers_tulip_pink.png &nbsp;&nbsp;&nbsp;&nbsp;
-ms_shears.png &nbsp;&nbsp;&nbsp;&nbsp;
-ms_desert_sandstone_tiles.png &nbsp;&nbsp;&nbsp;&nbsp;
-ms_desert_stone_tiles.png &nbsp;&nbsp;&nbsp;&nbsp;
+ms_light_blue.png &nbsp;&nbsp;&nbsp;&nbsp;
 ms_obsidian_tiles.png &nbsp;&nbsp;&nbsp;&nbsp;
 ms_sandstone_tiles.png &nbsp;&nbsp;&nbsp;&nbsp;
 ms_silver_sandstone_tiles.png &nbsp;&nbsp;&nbsp;&nbsp;
 ms_stone_tiles.png &nbsp;&nbsp;&nbsp;&nbsp;
+ms_shears.png &nbsp;&nbsp;&nbsp;&nbsp;
 ms_wire_connected.png &nbsp;&nbsp;&nbsp;&nbsp;
 ms_wire.png &nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -106,7 +133,6 @@ ms_wool_dug.ogg &nbsp;&nbsp;&nbsp;&nbsp;
 ms_wool_footstep.ogg &nbsp;&nbsp;&nbsp;&nbsp;
 ms_wool_place.ogg &nbsp;&nbsp;&nbsp;&nbsp;
 ms_wool_place.0.ogg &nbsp;&nbsp;&nbsp;&nbsp;
-
 
 This mod uses textures from the wool mod texture pack.
 >Credits for wool texture pack: Cisoun  (CC BY-SA 3.0)
