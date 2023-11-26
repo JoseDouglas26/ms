@@ -30,5 +30,6 @@ Yellow=
 @1 Pane=
 @1 Peony=
 @1 Powder=
+@1 Tiles=
 @1 Tulip=
 @1 Wall=

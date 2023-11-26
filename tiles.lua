@@ -2,8 +2,6 @@
 local S = minetest.get_translator("ms")
 local T = minetest.get_translator("default")
 
-local fence_collision_extra = minetest.settings:get_bool("enable_fence_tall") and 3/8 or 0
-
 local materials = {
     {"desert_sandstone", "Desert Sandstone"},
     {"desert_stone", "Desert Stone"},
